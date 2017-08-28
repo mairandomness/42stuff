@@ -1,0 +1,7 @@
+Credentials cache: API:25190
+        Principal: mlacerda@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  9 08:39:26 2017  Aug  9 18:39:26 2017  krbtgt/42.US.ORG@42.US.ORG
+Aug  9 10:37:27 2017  Aug  9 18:39:26 2017  host/vgs-fn1.42.us.org@42.US.ORG
+Aug  9 10:45:18 2017  Aug  9 18:39:26 2017  ldap/ldap-proxy.42.us.org@42.US.ORG
